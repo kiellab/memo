@@ -1,2 +1,1 @@
-roslaunch
-https://github.com/kiellab/my_urdf.git
+roslaunch urdf_tutorial display.launch model:=my_simple_model.urdf
